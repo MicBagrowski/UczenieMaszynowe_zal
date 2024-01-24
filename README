@@ -1,0 +1,6 @@
+# Wielki Licznik Ludzi
+
+- Aby policzyć osoby na zdjęciu z dysku, użyj `/people-counter`.
+- Aby policzyć osoby na zdjęciu  online, użyj  `/people-counter-url` 
+- Aby policzyć osoby na przesłanym zdjęciu, użyj  `/people-counter-upload`.
+
